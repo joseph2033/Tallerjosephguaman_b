@@ -11,6 +11,6 @@ Instalacion y configuracion de entorno de desarrollo
 
 ## Funcionamiento
 
-![](img/carro.jpg)
+![](img/programacion-2-e1551291144973.jpg)
 
 
